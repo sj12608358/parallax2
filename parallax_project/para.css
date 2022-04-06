@@ -1,0 +1,225 @@
+.box1
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("pt1.png");
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+    text-align: center;
+    text-decoration: underline;
+    color: #992D44;
+    font-size: x-large;
+}
+body
+{
+	margin:0;
+	padding:0;
+}
+.box2
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("pt2.png");
+    background-size: cover;
+    background-position: center;
+    display: table;
+    text-align: center;
+}
+.box3
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("pt3.png");
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box4
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("pt4.png");
+    background-size: cover;
+    background-position: center;
+    display: table;
+    font-size: x-large;
+}
+.box5
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt5.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box6
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt6.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box7
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt7.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box8
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt8.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box9
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt9.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box11
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt10.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box12
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pt11.png");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+.box13
+{
+	height:100vh;
+	width:100%;
+	background-image:url("pink-250774_1920.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+}
+
+
+.box2 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    font-size: x-large;
+}
+.box3 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box4 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box5 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box6 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box7 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box8 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box9 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box10 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+.box11 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+
+.box13 h1 {
+    Color: #992D44;
+    Padding-top: 50px;
+    Padding-bottom: 50px;
+    background-color: pink;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: x-large;
+}
